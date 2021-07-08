@@ -28,7 +28,7 @@ Put Your key here > http://juttkey.000webhostapp.com/
 <img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/Country.jpg" />
 
 # Script Look
-<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/Country.jpg" />
+<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/info.jpg" />
 
 # Features
 ```
