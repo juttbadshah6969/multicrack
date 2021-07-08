@@ -22,7 +22,9 @@ Put Your key here > http://juttkey.000webhostapp.com/
 
 ```
 # Step 1
-<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/image.png" />
+
+<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/image.png" alt="Imaget" width="500" height="600">
+
 
 # Step 2
 <img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/putkey.jpg" />
