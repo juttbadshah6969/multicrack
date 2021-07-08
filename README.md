@@ -22,22 +22,19 @@ Put Your key here > http://juttkey.000webhostapp.com/
 
 ```
 # Step 1
-
-<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/image.png" alt="Imaget" width="500" height="600">
-
+<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/image.png" alt="Copy Key" width="400" height="500">
 
 # Step 2
-<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/putkey.jpg" />
+<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/putkey.jpg" alt="Key Input" width="400" height="500">
 
 # Country Cloning Ids
-<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/Country.jpg" />
+<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/Country.jpg" alt="Country Crack" width="400" height="500">
 
 # Script Look
-<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/info.jpg" />
+<img src="https://github.com/juttbadshah6969/multicrack/blob/main/crack/info.jpg" alt="Script After Login" width="400" height="500">
 
 
 ## Feature Login
-
 [✯] Login Cookies
 [✯] Login Token
 [✯] Cookies/Token Awet
