@@ -22,3 +22,4 @@ pip2 install lolcat
 pkg install nodejs-lts
 pip2 install requests
 pkg install nodejs
+pip install colorama
